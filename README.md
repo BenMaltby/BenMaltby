@@ -1,4 +1,10 @@
-### Hi there 👋
+# Hi 👋
+
+I'm Ben Maltby
+
+## Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BenMaltby&hide=TeX&layout=compact&theme=prussian)
 
 <!--
 **BenMaltby/BenMaltby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

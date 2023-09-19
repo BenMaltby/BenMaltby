@@ -9,14 +9,14 @@ I'm hoping to attend Queen Mary's University of London and study Computer Scienc
 
 ## Skills
 
-![Python](https://img.shields.io/badge/-Python-3572a5?style=for-the-badge&logo=Python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-bfaf26?style=for-the-badge&logo=javascript&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3)
-![C++](https://img.shields.io/badge/-C++-f34b7d?style=for-the-badge&logo=c&logoColor=white)
-![C](https://img.shields.io/badge/-C-555555?style=for-the-badge&logo=c&logoColor=white)
-![sql](https://img.shields.io/badge/-sql-ededed?style=for-the-badge&logo=sqlite&logoColor=black)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
+[![Python](https://img.shields.io/badge/-Python-3572a5?style=for-the-badge&logo=Python&logoColor=white)](https://www.python.org/)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-bfaf26?style=for-the-badge&logo=javascript&logoColor=white)](https://www.javascript.com/)
+[![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://en.wikipedia.org/wiki/HTML5)
+[![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3)](https://en.wikipedia.org/wiki/CSS)
+[![C++](https://img.shields.io/badge/-C++-f34b7d?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B)
+[![C](https://img.shields.io/badge/-C-555555?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![sql](https://img.shields.io/badge/-sql-ededed?style=for-the-badge&logo=sqlite&logoColor=black)](https://en.wikipedia.org/wiki/SQL)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)](https://en.wikipedia.org/wiki/GitHub)
 
 ## Stats
 

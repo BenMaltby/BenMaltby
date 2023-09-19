@@ -21,4 +21,3 @@ I'm hoping to attend Queen Mary's University of London and study Computer Scienc
 ## Stats
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/Ben_Maltby?theme=nord&font=DM%20Sans)](https://leetcode.com/Ben_Maltby/)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BenMaltby&theme=nord&layout=compact&border_color=434c5e)

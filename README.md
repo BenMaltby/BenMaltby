@@ -1,6 +1,6 @@
 ### Hi 👋
 
-I'm Ben Maltby, I love programming💻, motorbikes🏍, cars🏎, and problem-solving🧠. Always trying to learn more and be better. 
+I'm Ben, I love programming💻, motorbikes🏍, cars🏎, and problem-solving🧠. Always trying to learn more and be better. 
 
 I'm hoping to attend Queen Mary's University of London and study Computer Science in 2024. A dream job would be writing code for the automotive industry, such as operating systems, diagnostic tools, or ECU tuning⚡.
 

@@ -10,11 +10,16 @@ I'm hoping to attend Queen Mary's University of London and study Computer Scienc
 ## Skills
 
 [![Python](https://img.shields.io/badge/-Python-3572a5?style=for-the-badge&logo=Python&logoColor=white)](https://www.python.org/)
+[![C++](https://img.shields.io/badge/-C++-f34b7d?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B)
+[![C](https://img.shields.io/badge/-C-555555?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![JavaScript](https://img.shields.io/badge/-JavaScript-bfaf26?style=for-the-badge&logo=javascript&logoColor=white)](https://www.javascript.com/)
 [![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://en.wikipedia.org/wiki/HTML5)
 [![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3)](https://en.wikipedia.org/wiki/CSS)
-[![C++](https://img.shields.io/badge/-C++-f34b7d?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B)
-[![C](https://img.shields.io/badge/-C-555555?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![Bootstrap](https://img.shields.io/badge/-Bootstrap-7e12f9?style=for-the-badge&logo=Bootstrap&logoColor=white)](https://getbootstrap.com/)
+[![jQuery](https://img.shields.io/badge/-jquery-0769ad?style=for-the-badge&logo=jquery&logoColor=white)](https://jquery.com/)
+[![sass](https://img.shields.io/badge/-sass-bf4080?style=for-the-badge&logo=sass&logoColor=white)](https://sass-lang.com/)
+[![react](https://img.shields.io/badge/-react-087ea4?style=for-the-badge&logo=react&logoColor=white)](https://react.dev/)
+[![redux](https://img.shields.io/badge/-redux-764abc?style=for-the-badge&logo=redux&logoColor=white)](https://redux.js.org/)
 [![sql](https://img.shields.io/badge/-sql-ededed?style=for-the-badge&logo=sqlite&logoColor=black)](https://en.wikipedia.org/wiki/SQL)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)](https://en.wikipedia.org/wiki/GitHub)
 

@@ -21,7 +21,7 @@ I'm hoping to attend Queen Mary's University of London and study Computer Scienc
 [![react](https://img.shields.io/badge/-react-087ea4?style=for-the-badge&logo=react&logoColor=white)](https://react.dev/)
 [![redux](https://img.shields.io/badge/-redux-764abc?style=for-the-badge&logo=redux&logoColor=white)](https://redux.js.org/)
 [![sql](https://img.shields.io/badge/-sql-ededed?style=for-the-badge&logo=sqlite&logoColor=black)](https://en.wikipedia.org/wiki/SQL)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)](https://en.wikipedia.org/wiki/GitHub)
+[![git](https://img.shields.io/badge/-git-f05032?style=for-the-badge&logo=git&logoColor=white)](https://en.wikipedia.org/wiki/GitHub)
 
 ## Stats
 

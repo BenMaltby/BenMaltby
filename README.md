@@ -5,7 +5,6 @@ I'm Ben, I love programming💻, motorbikes🏍, cars🏎, and problem-solving�
 I'm hoping to attend Queen Mary's University of London and study Computer Science in 2024. A dream job would be writing code for the automotive industry, such as operating systems, diagnostic tools, or ECU programming⚡.
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Ben-Maltby/)
-[![Instagram](https://img.shields.io/badge/instagram-ed114b?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/b_.m16/?hl=en)
 
 ## Skills
 

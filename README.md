@@ -1,8 +1,8 @@
 ### Hi 🕸
 
-I'm Ben, I like programming💻, motorbikes🏍, cars🏎, and problem-solving🧠.
+I'm Ben, I like programming💻, gym🏋️‍♂️, music🎵, and problem-solving🧠.
 
-A dream job would be writing code for the automotive industry, such as operating systems, diagnostic tools, or ECU programming⚡.
+I've mostly built full-stack and real-time systems, but lately I've been drawn to big data and ML, especially digging into large datasets to find the patterns that aren't obvious at first glance!
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Ben-Maltby/)
 
